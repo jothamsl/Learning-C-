@@ -5,8 +5,10 @@ Everything from the core foundations to the most complex algorithms are
 abstractly broken down without too much detail but not too ambiguous.
 
 ## Features
-* The repository provides implementation of various concepts in C++
-* TO be continued
+* Implementation of Fundamental concepts of C++
+* Basic Algorithms from search, sort and AI
+* Real World programs 
+* To be continued
 
 ## Instructions
 Each section (.cpp file) has a number which shows the order by which you should
@@ -16,7 +18,8 @@ the sections that interest you most.
 ## Disclaimer
 This repository is NOT for those just getting into programming. It's adviced
 that you have some prior experience with other programming languages especially
-those with explicit data type definitions for objects.
+those which require data type assignments for variables, functions etc.
 
 ## Todo
-* Create CLI Interface for eased exploration
+- [ ] Implement Fundamental Concepts 
+- [ ] Create Terminal App With C++ 
